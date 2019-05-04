@@ -1,0 +1,11 @@
+Intermediate
+Saved/Autosaves
+Saved/Backup
+Saved/Cloud
+Saved/Logs
+*.opensdf
+*.log
+*.sdf
+*.sln
+*.suo
+*/Logs
