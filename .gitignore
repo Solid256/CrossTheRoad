@@ -3,6 +3,7 @@ Saved/Autosaves
 Saved/Backup
 Saved/Cloud
 Saved/Logs
+Saved/StagedBuilds
 *.opensdf
 *.log
 *.sdf
